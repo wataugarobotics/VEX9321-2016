@@ -28,8 +28,6 @@ task autonomous()
 	motor[launch2] = 0;
 }
 
-
-
 //Use code below for accurate position control!!
 // 627.2 ticks per revolution of the output shaft w/unmodified 393
 

@@ -10,7 +10,7 @@
 
 task main()
 {
-	while (1==1) {
+	while (1) {
 		motor[motorY1] = (vexRT[Ch3] + vexRT[Ch1]);
 		motor[motorY2] = (vexRT[Ch3] - vexRT[Ch1]);
 		motor[motorX1] = (vexRT[Ch4] + vexRT[Ch1]);
